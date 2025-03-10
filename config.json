@@ -1,0 +1,4 @@
+{
+    "name": "hello_world",
+    "command_to_run_file":"/usr/bin/python3 /home/abu/codes/bc-projects/create-system-service-tutorial/hello_world.py"
+}
